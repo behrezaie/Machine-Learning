@@ -1,1 +1,1 @@
-In this repository you will find some of the sample Machine Learning applications I have developed.
+In this repository I have listed few interesting notebooks regarding Machine Learning. You will find some notebooks from the ML book that I love, some notebooks about the general ML knowledge, as well as some of the public projects I have created.
