@@ -1,1 +1,1 @@
-In this repository I have listed some of my Machine Learning projects.
+In this repository you will find some of my Machine Learning projects.
